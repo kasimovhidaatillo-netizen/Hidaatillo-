@@ -1,0 +1,6 @@
+{
+  "name": "Classic Snake Game",
+  "description": "Полноценная игра Змейка на React с великолепной неоновой ретро-стилистикой, звуковыми эффектами, таблицей рекордов, различными бонусами и препятствиями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
